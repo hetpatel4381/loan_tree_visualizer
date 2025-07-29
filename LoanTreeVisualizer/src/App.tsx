@@ -1,7 +1,12 @@
-const App = () => {
-  return (
-    <div className='font-bold underline w-full bg-amber-300'>App</div>
-  )
-}
+import TreeVisualizer from "./components/TreeVisualizer";
+import SidePanel from "./components/SidePanel";
 
-export default App
+function App() {
+  return (
+    <div className="flex h-screen">
+      <TreeVisualizer />
+      <SidePanel />
+    </div>
+  );
+}
+export default App;
