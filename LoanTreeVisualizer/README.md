@@ -1,5 +1,7 @@
 # LoanTreeVisualizer
 
+**Live Demo:** [https://loan-tree-visualizer-kappa.vercel.app/](https://loan-tree-visualizer-kappa.vercel.app/)
+
 A modern, responsive tree visualizer for loan management systems.  
 Built with React, TypeScript, Zustand, React Flow, Dagre, and Tailwind CSS.
 
